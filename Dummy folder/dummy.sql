@@ -1,2 +1,3 @@
 --dummy script
 --another line
+--third line
