@@ -1,1 +1,2 @@
 --another dummy
+--second line
